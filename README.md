@@ -1,5 +1,5 @@
 # python-whisper
-A huggingface whisper endpoint for transcribing audio to text in docker.
+A huggingface whisper endpoint for transcribing audio into text in docker.
 
 Step 1. run "python3 download-model.py" in shell
 
